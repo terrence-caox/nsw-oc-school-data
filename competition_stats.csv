@@ -1,0 +1,15 @@
+key,value
+total_schools,88
+total_places_base,1740
+total_places_with_aurora,1840
+metro_schools,57
+regional_schools,31
+schools_with_60_places,1
+schools_with_30_places,30
+schools_with_15_places,57
+gender_balance_rule,2027 onwards: 15-place class = 7M + 7F + 1 by score
+gender_balance_rule_30,2027 onwards: 30-place class = 15M + 15F (or similar balanced distribution)
+top_school,Woollahra PS (rank #1)
+only_60_place_school,Hurstville PS
+aurora_college_places,100
+test_date_2026,May 8 2026
